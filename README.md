@@ -6,4 +6,4 @@ Divided into three sections:
 - Apply the parameters to solve the optimal Stopping problem,
 - Plot the parameters for the final results and analysis.
 
-[Jupyter notebook]()# Ornstein_Uhlenbeck_Model
+[Jupyter notebook](https://github.com/369geofreeman/Ornstein_Uhlenbeck_Model/blob/main/research.ipynb)
